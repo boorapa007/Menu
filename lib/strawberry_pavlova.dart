@@ -254,7 +254,7 @@ class strawberry_pavlova extends StatelessWidget {
             Expanded(
               flex: 1,
               child: 
-              Image(image: NetworkImage("https://hips.hearstapps.com/hmg-prod/images/delish-200824-ghost-cake-0001-landscape-ag-1598886563.jpg?crop=0.829xw:0.623xh;0.0881xw,0.0745xh&resize=1200:*" 
+              Image(image: NetworkImage("https://static.thairath.co.th/media/dFQROr7oWzulq5Fa5B22yNYDqmOIaEuJI3NOUFseiXbJe4Y6ifY5sARTyHSTEaWrhJL.webp" 
               ),width:Screen_width,
               fit: BoxFit.cover
               )
